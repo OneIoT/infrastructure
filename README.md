@@ -5,10 +5,14 @@ kubernete dev ops
 
 Rememeber configuration:
 
+<pre>
+
 [kubeconfig] Wrote KubeConfig file to disk: "/etc/kubernetes/admin.conf"
 [kubeconfig] Wrote KubeConfig file to disk: "/etc/kubernetes/kubelet.conf"
 [kubeconfig] Wrote KubeConfig file to disk: "/etc/kubernetes/controller-manager.conf"
 [kubeconfig] Wrote KubeConfig file to disk: "/etc/kubernetes/scheduler.conf"
+
+</pre>
 
 
 2. Start kubernete service
