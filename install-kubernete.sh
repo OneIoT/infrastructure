@@ -1,4 +1,6 @@
 <pre>
+reference: https://kubernetes.io/docs/getting-started-guides/kubeadm/
+
 
 sudo su
 
